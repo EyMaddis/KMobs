@@ -1,0 +1,8 @@
+name: KMobs
+version: 0.9.6.2
+main: de.kaleydra.kmobs.KMobs
+softdepend: [Towny]
+depend: [WorldGuard,LiCETIA]
+commands:
+    kmob:
+      usage: /<command> <Mob Id>
